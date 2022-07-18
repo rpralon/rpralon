@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rpralon
+- 👋 Hi, I’m  Ricardo Pralon ( @rpralon)
 - 👀 I’m interested in  C/C++ projects for Embedded Systems.
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on  IOT/M2M projects in general.
